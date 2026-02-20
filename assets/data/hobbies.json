@@ -1,0 +1,24 @@
+{
+  "hobbies": [
+    {
+      "name": "Programming",
+      "description": "I love coding and building applications that solve real-world problems. I enjoy learning new languages, debugging, and building small projects."
+    },
+    {
+      "name": "Reading",
+      "description": "I enjoy reading tech blogs, programming books, and science fiction to stay inspired and learn new ideas."
+    },
+    {
+      "name": "Electronics & DIY",
+      "description": "Tinkering with small electronics, breadboards, and learning about microcontrollers like Arduino and Raspberry Pi."
+    },
+    {
+      "name": "Music",
+      "description": "I love listening to music and exploring different genres, from classical to modern pop."
+    },
+    {
+      "name": "Gaming",
+      "description": "Playing video games to relax and to explore creative storytelling and level design." 
+    }
+  ]
+}
